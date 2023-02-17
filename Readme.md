@@ -2,7 +2,7 @@
 
 ## Notas de hacking de los retos resueltos durante el semestre
 
-Erick Arias Munoz y la nalle loquilla
+Erick Arias Munoz
 38199021@hotmail.com
 
 
