@@ -28,42 +28,8 @@ bandit14  bandit20  bandit27  bandit30      bandit5       drifter10  drifter4   
 bandit6@bandit:/home$ cd ./bandit07
 -bash: cd: ./bandit07: No such file or directory
 bandit6@bandit:/home$ cd ./bandit7
-bandit6@bandit:/home/bandit7$ file ./*
-./data.txt: regular file, no read permission
 bandit6@bandit:/home/bandit7$ ls -a
 .  ..  .bash_logout  .bashrc  data.txt  .profile
-bandit6@bandit:/home/bandit7$ ls --all
-.  ..  .bash_logout  .bashrc  data.txt  .profile
-bandit6@bandit:/home/bandit7$ cd ./.profile
--bash: cd: ./.profile: Not a directory
-bandit6@bandit:/home/bandit7$ cat ./.profile
-# ~/.profile: executed by the command interpreter for login shells.
-# This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login
-# exists.
-# see /usr/share/doc/bash/examples/startup-files for examples.
-# the files are located in the bash-doc package.
-
-# the default umask is set in /etc/profile; for setting the umask
-# for ssh logins, install and configure the libpam-umask package.
-#umask 022
-
-# if running bash
-if [ -n "$BASH_VERSION" ]; then
-    # include .bashrc if it exists
-    if [ -f "$HOME/.bashrc" ]; then
-        . "$HOME/.bashrc"
-    fi
-fi
-
-# set PATH so it includes user's private bin if it exists
-if [ -d "$HOME/bin" ] ; then
-    PATH="$HOME/bin:$PATH"
-fi
-
-# set PATH so it includes user's private bin if it exists
-if [ -d "$HOME/.local/bin" ] ; then
-    PATH="$HOME/.local/bin:$PATH"
-fi
 bandit6@bandit:/home/bandit7$ ls -l
 total 4088
 -rw-r----- 1 bandit8 bandit7 4184396 Jan 11 19:19 data.txt
@@ -79,11 +45,17 @@ bandit6@bandit:/home/bandit7$ find / -user bandit7 -group bandit6 -size 33c 2>/d
 /var/lib/dpkg/info/bandit7.password
 bandit6@bandit:/home/bandit7$ cat /var/lib/dpkg/info/bandit7.password
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
-bandit6@bandit:/home/bandit7$ exit
 ```
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| ls -l | Nos muestra un formato de lista de archivos mas largo y detallado |
+|ls -la | usamos un formato de lista mas detallado que no ignora entradas empezando con '.' |
+| find | usado para buscar archivos en la herarquia del directorio|
+| find -user | Busca un archivo que pertenece a un usuario usando el nombre del usuario como referencia|
+| find -group | busca un archivo que pertenece a un grupo usando el nombre del grupo como referencia|
+|find -size| encuentra un archivo que es menor o mas de o exactamente unidades n de spacio con redondeo hacia arriba. en este caso usamos el sufijo c ya que estabamos buscando en bytes|
+| cat | demuestra el contenido de un archivo 
+| ls | demeuestra la lista de contenidos del directorio
 
 ## Referencias

@@ -1,18 +1,32 @@
 # Bandit Level 7-> Level 8
 
-para documentar los retos bandit usaremos la siguiente plantilla
-
-
 ## objetivo
+The password for the next level is stored in the file **data.txt** next to the word **millionth**
 
 ## Datos de acceso al nivel
+**ssh bandit.labs.overthewire.org -p 2220**
+bandit7
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
 ## solucion
 ```bash()
+bandit7@bandit:~$ ls
+data.txt
+bandit7@bandit:~$ wc data.txt
+  98567  197133 4184396 data.txt
+bandit7@bandit:~$ grep -i "millionth" data.txt
+millionth       TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+
 ```
 
 ## Notas adicionales
-| comando | descripcion
-| xx | xx el contenido de un archivo 
-
+| comando | descripcion|
+| wc | wc significa "word count" es decir el numero de palabras. Se usa principalmente para el proposito de contar. Nos deja saber el **numero de lineas, numero de palabras y el numero de bytes y caracteres** dentro de el archivo especificado|
+| grep | es un filtro que busca un patron de caracteres dentro de un archivo, y nos demuestra todas las lineas que contengan ese patron.
+| grep -i | ignora si la palabra tiene mayusculas o minusculas e incluye todas las palabras que sean iguales sin importar lo anterior mencionado.
+| cat | demuestra el contenido de un archivo 
+| ls | demeuestra la lista de contenidos del directorio
 ## Referencias
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+https://www.geeksforgeeks.org/wc-command-linux-examples/
+

@@ -38,6 +38,6 @@ bandit4@bandit:~/inhere$
 | cat | demuestra el contenido de un archivo 
 | ls | demeuestra la lista de contenidos del directorio
 | file | determina el tipo de archivo
-|file ./*| demuestra el tipo de todos los archivos
+|"file ./*"| demuestra el tipo de todos los archivos
 
 ## Referencias

@@ -2,7 +2,6 @@
 
 para documentar los retos bandit usaremos la siguiente plantilla
 
-
 ## objetivo
 
 ## Datos de acceso al nivel
