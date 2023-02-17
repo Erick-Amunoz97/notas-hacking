@@ -1,15 +1,12 @@
 # Bandit Level 2 -> Level 3
 
-
-
-
 ## objetivo
-The password for the next level is stored in a file called **-** located in the home directory
+The password for the next level is stored in a file called **spaces in this filename** located in the home directory
 
 ## Datos de acceso al nivel
-**ssh bandit.labs.overthewire.org -p 2220**
+**ssh bandit2@bandit.labs.overthewire.org -p 2220**
 bandit2
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgziL
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 
 ## solucion
@@ -18,9 +15,6 @@ bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ cat 'spaces in this filename'
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
-bandit2@bandit:~$ 
-
-
 ```
 
 ## Notas adicionales
@@ -29,4 +23,7 @@ bandit2@bandit:~$
 | ls | demeuestra la lista de contenidos del directorio
 
 ## Referencias
-https://overthewire.org/wargames/bandit/bandit3.html
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://overthewire.org/wargames/bandit/bandit3.html|Link de nivel 2 al 3]]
+

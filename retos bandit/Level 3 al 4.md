@@ -4,7 +4,7 @@
 The password for the next level is stored in a hidden file in the **inhere** directory.
 
 ## Datos de acceso al nivel
-**ssh bandit.labs.overthewire.org -p 2220**
+**ssh bandit3@bandit.labs.overthewire.org -p 2220**
 bandit3
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ## solucion
@@ -33,5 +33,7 @@ bandit3@bandit:~/inhere$ cat ./.hidden
 |du --all | escribe el contador para todos los archivos no solo los directorios. 
 
 ## Referencias
-https://overthewire.org/wargames/bandit/bandit4.html
-https://man7.org/linux/man-pages/man1/du.1.html
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://man7.org/linux/man-pages/man1/du.1.html|Referencia del comando du]]
+[[https://overthewire.org/wargames/bandit/bandit4.html|Link del nivel 3 al 4]]

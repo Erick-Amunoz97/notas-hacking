@@ -4,7 +4,7 @@
 The password for the next level is stored in the only human-readable file in the **inhere** directory. Tip: if your terminal is messed up, try the “reset” command.
 
 ## Datos de acceso al nivel
-**ssh bandit.labs.overthewire.org -p 2220**
+**ssh bandit4@bandit.labs.overthewire.org -p 2220**
 bandit4
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
@@ -29,7 +29,6 @@ bandit4@bandit:~/inhere$ file ./*
 ./-file09: data
 bandit4@bandit:~/inhere$ cat ./-file07
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
-bandit4@bandit:~/inhere$ 
 
 ```
 
@@ -41,3 +40,7 @@ bandit4@bandit:~/inhere$
 |"file ./*"| demuestra el tipo de todos los archivos
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://man7.org/linux/man-pages/man1/file.1.html|Referencia del comando file]]
+[[https://overthewire.org/wargames/bandit/bandit5.html|Link del nivel 4 al 5]]

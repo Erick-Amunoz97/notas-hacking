@@ -8,7 +8,7 @@ The password for the next level is stored in a file somewhere under the **inher
 -   not executable
 
 ## Datos de acceso al nivel
-**ssh bandit.labs.overthewire.org -p 2220**
+**ssh bandit5@bandit.labs.overthewire.org -p 2220**
 bandit5
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
@@ -38,5 +38,7 @@ P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 |find -size| encuentra un archivo que es menor o mas de o exactamente unidades n de spacio con redondeo hacia arriba. en este caso usamos el sufijo c ya que estabamos buscando en bytes
 
 ## Referencias
-https://man7.org/linux/man-pages/man1/find.1.html
-https://overthewire.org/wargames/bandit/bandit6.html
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://man7.org/linux/man-pages/man1/find.1.html|Referencia del comando find]]
+[[https://overthewire.org/wargames/bandit/bandit6.html|Link del nivel 5 al 6]]

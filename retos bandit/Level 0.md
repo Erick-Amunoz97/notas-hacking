@@ -1,24 +1,23 @@
-# Bandit Level 0 -> Level 1
 
 
 ## objetivo
-The password for the next level is stored in a file called **readme** located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+The goal of this level is for you to log into the game using SSH. The host to which you need to connect is **bandit.labs.overthewire.org**, on port 2220. The username is **bandit0** and the password is **bandit0**. Once logged in, go to the [Level 1](https://overthewire.org/wargames/bandit/bandit1.html) page to find out how to beat Level 1.
 
 ## Datos de acceso al nivel
-** ssh bandit0@bandit.labs.overthewire.org -p 2220
-**
+**ssh bandit0@bandit.labs.overthewire.org -p 2220**
 bandit0
 bandit0
 
 ## solucion
 ```bash()
+bandit0@bandit:/$ cd
 bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
-
 ```
+
 
 ## Notas adicionales
 | comando | descripcion
@@ -28,7 +27,7 @@ NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ## Referencias
 [[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
 [[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
-[[https://overthewire.org/wargames/bandit/bandit1.html|Link del Nivel 0 al 1]]
+[[https://overthewire.org/wargames/bandit/bandit0.html|Link del nivel 0]]
 
-[[https://overthewire.org/wargames/bandit/bandit1.html|]]
+
 

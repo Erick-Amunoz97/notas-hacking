@@ -8,7 +8,7 @@ The password for the next level is stored **somewhere on the server** and has 
 -   33 bytes in size
 
 ## Datos de acceso al nivel
-**ssh bandit.labs.overthewire.org -p 2220**
+**ssh bandit6@bandit.labs.overthewire.org -p 2220**
 bandit6
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
@@ -56,6 +56,9 @@ z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 | find -group | busca un archivo que pertenece a un grupo usando el nombre del grupo como referencia|
 |find -size| encuentra un archivo que es menor o mas de o exactamente unidades n de spacio con redondeo hacia arriba. en este caso usamos el sufijo c ya que estabamos buscando en bytes|
 | cat | demuestra el contenido de un archivo 
-| ls | demeuestra la lista de contenidos del directorio
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://man7.org/linux/man-pages/man1/find.1.html|Referencia del comando find]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://overthewire.org/wargames/bandit/bandit7.html|Link del nivel 6 al 7]]
