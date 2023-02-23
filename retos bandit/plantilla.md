@@ -1,10 +1,13 @@
 # Bandit Level -> Level
 
-para documentar los retos bandit usaremos la siguiente plantilla
+
 
 ## objetivo
 
 ## Datos de acceso al nivel
+**ssh bandit@bandit.labs.overthewire.org -p 2220**
+bandit
+
 
 ## solucion
 ```bash()

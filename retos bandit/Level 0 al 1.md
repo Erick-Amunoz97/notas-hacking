@@ -21,7 +21,7 @@ NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ```
 
 ## Notas adicionales
-| comando | descripcion
+| comando | descripcion|
 | cat | demuestra el contenido de un archivo 
 | ls | demeuestra la lista de contenidos del directorio
 
