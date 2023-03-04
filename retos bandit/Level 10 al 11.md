@@ -31,7 +31,21 @@ The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ```
 
 ## Notas adicionales
-| comando | descripcion
-| xx | xx el contenido de un archivo 
+| comando | descripcion |
+| ls | demeuestra la lista de contenidos del directorio |
+| cat | demuestra el contenido de un archivo |
+| Base64 | es para convertir un texto a una codificacion de base 64 |
+| Base64 -d | Decodifica de base64 a texto. |
+| echo | es para mostrar una linea de texto/cadena que se pasa como argumento. Este comando es incorporado principalmente en scripts de shelly archivos de tipo bash para generar texto en la pantalla o en un archivo |
+| echo -n | Muestra la salida del texto omitiendo la nueva linea despues de ella |
+
+
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://www.geeksforgeeks.org/convert-text-file-strings-into-base64-encoding/|Refefencia del comando Base64]]
+[[https://www.geeksforgeeks.org/echo-command-in-linux-with-examples/|Referencia del comando echo]]
+[[https://overthewire.org/wargames/bandit/bandit11.html|Referencia del nivel 10 al 11]]
+
+

@@ -25,6 +25,13 @@ bandit11@bandit:~$ exit
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| cat | demuestra el contenido de un archivo |
+| ls | demeuestra la lista de contenidos del directorio|
+| tr | commando de tipo UNIX usado para traducir o borrrar caracteres |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/|Link del comando tr]]
+[[https://overthewire.org/wargames/bandit/bandit12.html|Link del nivel 11 al 12]]
+

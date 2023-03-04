@@ -1,0 +1,13 @@
+Links
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://man7.org/linux/man-pages/man1/du.1.html|Referencia del comando du]]
+[[https://man7.org/linux/man-pages/man1/file.1.html|Referencia del comando file]]
+[[https://man7.org/linux/man-pages/man1/find.1.html|Referencia del comando find]]
+[[https://www.geeksforgeeks.org/grep-command-in-unixlinux/|Referencia de comando grep]]
+[[https://www.geeksforgeeks.org/wc-command-linux-examples/|Referencia de Comando wc]]
+[[https://www.geeksforgeeks.org/sort-command-linuxunix-examples/|Referencia de Comando Sort]]
+[[https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/|Referencia de Comando uniq]]
+[[https://www.google.com/search?q=eng+to+spa&rlz=1C1VDKB_enUS932US932&oq=eng+to+spa&aqs=chrome.0.69i59l2j46i131i199i433i465j0i131i433i512l3j0i131i433j0i10i433j0i131i433.856j0j7&sourceid=chrome&ie=UTF-8|Referencia de Comando strings]]
+[[https://www.geeksforgeeks.org/convert-text-file-strings-into-base64-encoding/|Refefencia del comando Base64]]
+[[https://www.geeksforgeeks.org/echo-command-in-linux-with-examples/|Referencia del comando echo]]

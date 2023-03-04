@@ -28,7 +28,7 @@ bandit9@bandit:~$
 | ls | demeuestra la lista de contenidos del directorio |
 | grep | es un filtro que busca un patron de caracteres dentro de un archivo, y nos demuestra todas las lineas que contengan ese patron |
 | file | determina el tipo de archivo |
-| strings | se utiliza para devolver los caracteres de tipo string a los archivos. Se enfoca principalmente en determinar el contenido y extraer texto de los archivos binarios(archivo que no es de texto)
+| strings | se utiliza para devolver los caracteres de tipo string a los archivos. Se enfoca principalmente en determinar el contenido y extraer texto de los archivos binarios(archivo que no es de texto) |
 
 
 

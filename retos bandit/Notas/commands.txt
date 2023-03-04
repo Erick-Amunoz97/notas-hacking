@@ -1,0 +1,24 @@
+comando | descripcion |
+| cat | demuestra el contenido de un archivo |
+| ls | demeuestra la lista de contenidos del directorio|
+| ls -l | Nos muestra un formato de lista de archivos mas largo y detallado |
+|ls -la | usamos un formato de lista mas detallado que no ignora entradas empezando con '.' |
+|du | demuestra todos los archivos incluyendo los ocultos, ya que duemestra cuanto espacio ocupa cada uno. |
+|du --all | escribe el contador para todos los archivos no solo los directorios. |
+| file | determina el tipo de archivo |
+|"file ./*"| demuestra el tipo de todos los archivos |
+| find | usado para buscar archivos en la herarquia del directorio|
+|find -readable| nos demuestra los archivos que pueden ser leidos por el usuario actual|
+|find -type f| nos demuetra un archivo regular |
+|find -size| encuentra un archivo que es menor o mas de o exactamente unidades n de spacio con redondeo hacia arriba. en este caso usamos el sufijo c ya que estabamos buscando en bytes. |
+| find -user | Busca un archivo que pertenece a un usuario usando el nombre del usuario como referencia|
+| find -group | busca un archivo que pertenece a un grupo usando el nombre del grupo como referencia|
+| wc | wc significa "word count" es decir el numero de palabras. Se usa principalmente para el proposito de contar. Nos deja saber el **numero de lineas, numero de palabras y el numero de bytes y caracteres** dentro de el archivo especificado|
+| grep | es un filtro que busca un patron de caracteres dentro de un archivo, y nos demuestra todas las lineas que contengan ese patron. |
+| grep -i | ignora si la palabra tiene mayusculas o minusculas e incluye todas las palabras que sean iguales sin importar lo anterior mencionado. |
+|sort | es un comando que ordena los contenidos de un archivo de texto linea por linea|
+|uniq | es un a utilidad que reporta o filtra las lineas repetidas dentro de un archivo y las borra dejando solo las lineas unicas|
+|uniq -u | Imprime solo las lineas unicas|
+| strings | se utiliza para devolver los caracteres de tipo string a los archivos. Se enfoca principalmente en determinar el contenido y extraer texto de los archivos binarios(archivo que no es de texto) |
+| Base64 | es para convertir un texto a una codificacion de base 64 |
+| echo | es para mostrar una linea de texto/cadena que se pasa como argumento. Este comando es incorporado principalmente en scripts de shelly archivos de tipo bash para generar texto en la pantalla o en un archivo |

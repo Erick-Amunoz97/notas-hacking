@@ -36,6 +36,16 @@ The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| xxd | crea un "hex dump" de un archivo con el input. tambien puede covertir un "hex dump" a su forma binaria original. |
+| xxd - r | operacion en reversa:  convierte un "hex dump" a su forma binaria original. |
+| file | determina el tipo de archivo |
+| zcat | para ahorrar tiempo y visualizar archivos sin descomprimirlos se utiliza el comando “zcat”. |
+| bzcat | El comando bzcat mostrará los archivos comprimidos con el comando bzip. |
+| tar | significa archivo de tipo "tape", se utiliza para crear "Archives" y extraer los archivos de los "Archives" | 
 
 ## Referencias
+[[https://www.tutorialspoint.com/unix_commands/xxd.htm|Link del comando xxd]]
+[[https://man7.org/linux/man-pages/man1/file.1.html|Referencia del comando file]]
+[[https://www.javatpoint.com/linux-bzcat-bzmore|Link del comando bzcat]]
+[[https://www.geeksforgeeks.org/tar-command-linux-examples/|Link del comando tar]]
+[[https://overthewire.org/wargames/bandit/bandit13.html|Link del nivel 12 al 13]]

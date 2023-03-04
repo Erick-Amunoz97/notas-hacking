@@ -8,8 +8,8 @@ There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/re
 Clone the repository and find the password for the next level.
 
 ## Datos de acceso al nivel
-**ssh bandit@bandit.labs.overthewire.org -p 2220**
-bandit
+**ssh bandit27@bandit.labs.overthewire.org -p 2220**
+bandit27
 YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 
 

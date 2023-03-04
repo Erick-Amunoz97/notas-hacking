@@ -51,15 +51,19 @@ bandit14@bandit:~$ file /*
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 bandit14@bandit:~$ exit
-logout
-Connection to localhost closed.
-bandit13@bandit:~$ exit
-logout
-Connection to bandit.labs.overthewire.org closed.
 ```
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| ls | demeuestra la lista de contenidos del directorio|
+| file | determina el tipo de archivo |
+|"file ./*"| demuestra el tipo de todos los archivos |
+| cat | demuestra el contenido de un archivo |
+
+
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://man7.org/linux/man-pages/man1/file.1.html|Referencia del comando file]]
+[[https://overthewire.org/wargames/bandit/bandit14.html|Link del nivel 13 al 14]]
