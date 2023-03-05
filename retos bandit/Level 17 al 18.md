@@ -36,6 +36,12 @@ bandit17@bandit:~$ exit
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| ls | demeuestra la lista de contenidos del directorio|
+|ls -la | usamos un formato de lista mas detallado que no ignora entradas empezando con '.' |
+|diff | Este comando se usa para mostrar las diferencias en los archivos comparando los archivos línea por línea |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/diff-command-linux-examples/|Link para el comando diff]]
+[[https://overthewire.org/wargames/bandit/bandit18.html|Link para el nivel 17 al 18]]
+

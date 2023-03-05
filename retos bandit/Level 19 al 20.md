@@ -29,6 +29,14 @@ bandit19@bandit:~$ exit
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| cat | demuestra el contenido de un archivo| 
+| ls | demeuestra la lista de contenidos del directorio|
+|ls -la | usamos un formato de lista mas detallado que no ignora entradas empezando con '.' |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://overthewire.org/wargames/bandit/bandit20.html|Link del nivel 19 al 20]]
+
+
+

@@ -27,6 +27,7 @@ bandit20@bandit:~$ exit
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| nc | Netcat es una de las poderosas herramientas de red, herramienta de seguridad o herramienta de monitoreo de red. Actúa como un comando de tipo "cat" en una red. Incluso se considera como una navaja suiza de herramientas de red. |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-uses-of-ncnetcat-command-in-linux/|Link del comando nc]]

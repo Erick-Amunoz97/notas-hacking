@@ -44,6 +44,14 @@ bandit24@bandit:~$ exit
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| nc -v | Establece el nivel de verbosidad. Úselo varias veces para aumentar la verbosidad. |
+| grep -v |  imprime todas las líneas que no coinciden con el patrón. |
+| echo | es para mostrar una linea de texto/cadena que se pasa como argumento. Este comando es incorporado principalmente en scripts de shelly archivos de tipo bash para generar texto en la pantalla o en un archivo |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-uses-of-ncnetcat-command-in-linux/|Link del comando nc]]
+[[https://www.geeksforgeeks.org/echo-command-in-linux-with-examples/|Referencia del comando echo]]
+[[https://www.geeksforgeeks.org/grep-command-in-unixlinux/|Referencia de comando grep]]
+[[https://overthewire.org/wargames/bandit/bandit25.html|Link del nivel 24 al 25]]
+
+

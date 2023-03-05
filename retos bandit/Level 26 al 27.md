@@ -32,3 +32,5 @@ bandit26@bandit:~$
 | xx | xx el contenido de un archivo 
 
 ## Referencias
+[[https://overthewire.org/wargames/bandit/bandit27.html|Link del nivel 26 al 27]]
+

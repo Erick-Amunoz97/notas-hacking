@@ -59,6 +59,12 @@ QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| cat | demuestra el contenido de un archivo |
+| ls | demeuestra la lista de contenidos del directorio|
+| echo -n | Muestra la salida del texto omitiendo la nueva linea despues de ella |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://www.geeksforgeeks.org/echo-command-in-linux-with-examples/|Referencia del comando echo]]
+[[https://overthewire.org/wargames/bandit/bandit23.html|Link del nivel 22 al 23]]

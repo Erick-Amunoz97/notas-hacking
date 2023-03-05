@@ -69,6 +69,8 @@ The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19nR
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| mktemp | se proporciona para permitir que los scripts de shell utilicen archivos temporales de forma segura. | 
 
 ## Referencias
+[[https://www.tutorialspoint.com/unix_commands/mktemp.htm#:~:text=mktemp%20is%20provided%20to%20allow,for%20an%20attacker%20to%20win.|Link para el comando mktemp]]
+[[https://overthewire.org/wargames/bandit/bandit28.html|Link del nivel 27 al 28]]

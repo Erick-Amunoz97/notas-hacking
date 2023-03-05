@@ -44,7 +44,6 @@ do
 done
 
 bandit23@bandit:~$ mkdir /tmp/kd
-mkdir: cannot create directory ‘/tmp/kd’: File exists
 bandit23@bandit:~$  cd /tmp/kd
 bandit23@bandit:/tmp/kd$  echo "cat /etc/bandit_pass/bandit24 >
 /tmp/kd/password" > script.sh
@@ -54,8 +53,6 @@ cat /etc/bandit_pass/bandit24 >
 bandit23@bandit:/tmp/kd$ chmod +x script.sh
 bandit23@bandit:/tmp/kd$  touch password
 bandit23@bandit:/tmp/kd$ chmod 666 password
-bandit23@bandit:/tmp/kd$  ls –la
-ls: cannot access '–la': No such file or directory
 bandit23@bandit:/tmp/kd$ ls -la
 total 116
 drwxrwxr-x    2 bandit23 bandit23   4096 Feb 24 23:01 .
@@ -84,6 +81,24 @@ bandit23@bandit:/tmp/kd$ exit
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| cat | demuestra el contenido de un archivo |
+| ls | demeuestra la lista de contenidos del directorio|
+|ls -la | usamos un formato de lista mas detallado que no ignora entradas empezando con '.' |
+|mkdir | permite al usuario crear directorios (también denominados carpetas en algunos sistemas operativos). |
+| cd | se usa para cambiar el directorio de trabajo actual (es decir, en el que está trabajando el usuario actual). El "cd" significa "cambiar de directorio". |
+| chmod | El comando chmod de Linux se usa para cambiar los permisos de acceso de archivos y directorios. Significa "Change mode" o modo de cambio. No puede cambiar el permiso de enlaces simbólicos. Incluso, ignora los enlaces simbólicos que se encuentran en el recorrido recursivo del directorio. |
+| touch | El comando touch actualiza los tiempos de acceso y modificación de cada archivo especificado por el parámetro Archivo de cada directorio especificado por el parámetro Directorio. |
+
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-applications-ls-command-linux/|Referencia del comando ls]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://www.geeksforgeeks.org/mkdir-command-in-linux-with-examples/|Link para el comando Mkdir]]
+[[https://www.javatpoint.com/linux-cd#:~:text=Linux%20cd%20command%20is%20used,commands%20in%20the%20Linux%20terminal.|Link para comando cd]]
+[[https://www.javatpoint.com/linux-chmod-command#:~:text=Linux%20chmod%20command%20is%20used,come%20across%20recursive%20directory%20traversal.|Link del comando chmod]]
+[[https://www.ibm.com/docs/pl/aix/7.1?topic=t-touch-command|Link para el comando touch]]
+[[https://overthewire.org/wargames/bandit/bandit24.html|Link del nivel 23 al 24]]
+
+
+
+

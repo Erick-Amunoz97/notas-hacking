@@ -32,6 +32,7 @@ awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
-
+| cat | demuestra el contenido de un archivo| 
 ## Referencias
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://overthewire.org/wargames/bandit/bandit19.html|Link del nivel 18 al 19 ]]

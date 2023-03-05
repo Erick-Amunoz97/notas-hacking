@@ -150,6 +150,10 @@ JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+| openssl | una biblioteca de software o conjunto de herramientas de criptografía que hace que la comunicación a través de redes informáticas sea más segura. |
+| s_client | implementa un cliente SSL/TLS genérico que se conecta a un host remoto mediante SSL/TLS. Es una herramienta de diagnóstico muy útil para servidores SSL. |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/practical-uses-of-openssl-command-in-linux/|Link para comando ssl]]
+[[https://www.openssl.org/docs/man1.1.1/man1/openssl-s_client.html#:~:text=The%20s_client%20command%20implements%20a,diagnostic%20tool%20for%20SSL%20servers.|Link para comando s_client]]
+[[https://overthewire.org/wargames/bandit/bandit16.html|Link del nivel 15 al 16]]

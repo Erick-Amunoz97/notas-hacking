@@ -297,6 +297,14 @@ bandit17@bandit:~$ exit
 
 ## Notas adicionales
 | comando | descripcion
-| xx | xx el contenido de un archivo 
+
+| nmap | es una herramienta de línea de comandos de Linux para la exploración de redes y la auditoría de seguridad. |
+| cat | demuestra el contenido de un archivo |
+| chmod | El comando chmod de Linux se usa para cambiar los permisos de acceso de archivos y directorios. Significa "Change mode" o modo de cambio. No puede cambiar el permiso de enlaces simbólicos. Incluso, ignora los enlaces simbólicos que se encuentran en el recorrido recursivo del directorio. |
 
 ## Referencias
+[[https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/|Link para el comando nmap]]
+[[https://www.javatpoint.com/linux-chmod-command#:~:text=Linux%20chmod%20command%20is%20used,come%20across%20recursive%20directory%20traversal.|Link del comando chmod]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Referencia del comando cat]]
+[[https://overthewire.org/wargames/bandit/bandit17.html|Link para el nivel 16 al 17]]
+

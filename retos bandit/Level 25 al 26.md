@@ -36,7 +36,7 @@ bandit25@bandit:~$
 ```
 
 ## Notas adicionales
-| comando | descripcion
-| xx | xx el contenido de un archivo 
+| comando | descripcion 
 
 ## Referencias
+[[https://overthewire.org/wargames/bandit/bandit26.html|Link del nivel 25 al 26]]
