@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos bandit/Level 27 al 28.md",
+                "file": "retos bandit/Level 33 al 34.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d980fe247f2e092e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos bandit/Level 27 al 28.md",
+                "file": "retos bandit/Level 33 al 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos bandit/Level 27 al 28.md",
+                "file": "retos bandit/Level 33 al 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos bandit/Level 27 al 28.md"
+                "file": "retos bandit/Level 33 al 34.md"
               }
             }
           }
@@ -161,12 +161,16 @@
   },
   "active": "9df5a0cf7938aaad",
   "lastOpenFiles": [
-    "retos bandit/Level 17 al 18.md",
-    "retos bandit/Level 28 al 29.md",
+    "retos bandit/Level 32 al 33.md",
+    "retos bandit/Level 31 al 32.md",
+    "retos bandit/Level 30 al 31.md",
     "retos bandit/Level 29 al 30.md",
-    "retos bandit/Level 27 al 28.md",
-    "retos bandit/Level 26 al 27.md",
+    "retos bandit/Level 28 al 29.md",
     "retos bandit/Level 25 al 26.md",
+    "retos bandit/Level 26 al 27.md",
+    "retos bandit/Level 27 al 28.md",
+    "retos bandit/Level 33 al 34.md",
+    "retos bandit/Level 17 al 18.md",
     "retos bandit/Level 24 al 25.md",
     "retos bandit/Level 23 al 24.md",
     "retos bandit/Level 22 al 23.md",
@@ -187,10 +191,6 @@
     "retos bandit/New folder",
     "retos bandit/Level 9 al 10.md",
     "retos bandit/Level 8 al 9.md",
-    "retos bandit/Level 6 al 7.md",
-    "retos bandit/Level 7 al 8.md",
-    "retos bandit/Level 5 al 6.md",
-    "retos bandit/Level 4 al 5.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
