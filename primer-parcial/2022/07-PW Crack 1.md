@@ -63,5 +63,16 @@ picoCTF{545h_r1ng1ng_1b2fd683}
 ## Notas adicionales
 
 | comando | descripcion
+| ls | El comando ls se utiliza para mostrar una lista de archivos y subdirectorios en el directorio actual. |
+| cd | El comando cd de Linux se usa para cambiar el directorio de trabajo actual. |
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+| python | corre un script del lenguaje python. |
+| nano | abre una nueva ventana del editor y puede comenzar a editar el archivo. |
 
 ## Referencias
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]
+[[https://www.atatus.com/blog/ls-command-in-linux-with-example/#:~:text=In%20Linux%2C%20the%20command%20%22ls,as%20well%20as%20system%20administrators.|Link para el comando ls]]
+[[https://www.javatpoint.com/linux-cd#:~:text=Linux%20cd%20command%20is%20used,commands%20in%20the%20Linux%20terminal.|Link para el comando cd]]
+[[https://realpython.com/run-python-scripts/#:~:text=To%20run%20Python%20scripts%20with,see%20the%20phrase%20Hello%20World!|Link del comando Python]]
+
+

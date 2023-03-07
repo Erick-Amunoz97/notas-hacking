@@ -35,4 +35,12 @@ picoCTF{grep_is_good_to_find_things_5af9d829}
 
 | comando | descripcion
 
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+| strings | El comando de strings de Linux se utiliza para devolver los caracteres de cadena a los archivos. |
+| grep | El filtro grep busca en un archivo un patrón particular de caracteres y muestra todas las líneas que contienen ese patrón. | 
+
 ## Referencias
+[[https://www.geeksforgeeks.org/grep-command-in-unixlinux/|Link para el comando grep]]
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]
+[[https://www.javatpoint.com/linux-strings-command#:~:text=Linux%20strings%20command%20is%20used,text%20from%20an%20executable%20file.|Link para el comando strings]]
+

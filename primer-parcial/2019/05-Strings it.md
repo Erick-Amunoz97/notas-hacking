@@ -37,6 +37,11 @@ picoCTF{5tRIng5_1T_7f766a23}
 
 | comando | descripcion
 
-## Referencias
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+| strings | El comando de strings de Linux se utiliza para devolver los caracteres de cadena a los archivos. |
 
+
+## Referencias
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]
+[[https://www.javatpoint.com/linux-strings-command#:~:text=Linux%20strings%20command%20is%20used,text%20from%20an%20executable%20file.|Link para el comando strings]]
 [strings](https://linux.die.net/man/1/strings)

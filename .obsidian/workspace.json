@@ -241,7 +241,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md",
+                "file": "primer-parcial/plantilla 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md",
+                "file": "primer-parcial/plantilla 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md",
+                "file": "primer-parcial/plantilla 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial/2022/09-PW Crack 3.md"
+                "file": "primer-parcial/plantilla 1.md"
               }
             }
           }
@@ -375,43 +375,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22455b574d905a9",
+  "active": "4ce7be94be600a9d",
   "lastOpenFiles": [
+    "primer-parcial/2022/09-PW Crack 3.md",
     "primer-parcial/2022/08-PW Crack 2.md",
     "primer-parcial/2022/07-PW Crack 1.md",
-    "primer-parcial/2022/09-PW Crack 3.md",
-    "primer-parcial/2022/03-Codebook.md",
-    "primer-parcial/2022/05-fixme2.py.md",
     "primer-parcial/2022/06-Glitch Cat.md",
+    "primer-parcial/2022/05-fixme2.py.md",
     "primer-parcial/2022/04-fixme1.py.md",
+    "primer-parcial/2022/03-Codebook.md",
     "primer-parcial/2022/02-convertme.py.md",
     "primer-parcial/2022/01-runme.py.md",
     "primer-parcial/2021/06-Magikarp Ground Mission.md",
     "primer-parcial/2021/05-Tab, Tab, Attack.md",
-    "primer-parcial/plantilla 1.md",
     "primer-parcial/2021/04-Static aint always noise.md",
     "primer-parcial/2021/03-Nice netcat....md",
-    "primer-parcial/2019/01-Lets Warm up.md",
-    "primer-parcial/2019/04-Whats a net cat.md",
     "primer-parcial/2021/02-Wave a flag.md",
     "primer-parcial/2021/01-Obedient Cat.md",
-    "primer-parcial/2019/07-First Grep.md",
-    "primer-parcial/2019/09-Plumbing 1.md",
     "primer-parcial/2019/09-Plumbing.md",
     "primer-parcial/2019/08-Based.md",
+    "primer-parcial/2019/07-First Grep.md",
     "primer-parcial/2019/06-Bases.md",
-    "primer-parcial/2019/03-2Warm.md",
-    "primer-parcial/2019/02-Warmed up.md",
     "primer-parcial/2019/05-Strings it.md",
+    "primer-parcial/2019/04-Whats a net cat.md",
+    "primer-parcial/2019/03-2Warm.md",
+    "primer-parcial/2019/01-Lets Warm up.md",
+    "primer-parcial/2019/02-Warmed up.md",
+    "primer-parcial/Notas/Commands.txt",
+    "primer-parcial/Notas/Links.txt",
+    "primer-parcial/Notas",
+    "primer-parcial/New folder",
+    "primer-parcial/plantilla 1.md",
+    "primer-parcial/2019/09-Plumbing 1.md",
     "retos bandit/Notas/Links.txt",
     "retos bandit/Notas/commands.txt",
     "retos bandit/Notas",
     "retos bandit/New folder",
     "primer-parcial/2022",
-    "primer-parcial/2021",
-    "primer-parcial/2019",
-    "primer-parcial",
-    "New folder (2)",
-    "New folder"
+    "primer-parcial/2021"
   ]
 }

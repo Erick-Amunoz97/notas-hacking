@@ -24,4 +24,8 @@ picoCTF{61}
 
 | comando | descripcion
 
+| int() | La función python int() es un método incorporado que convierte una cadena o un número en un número entero. |
+
+
 ## Referencias
+[[https://www.scaler.com/topics/int-python/|Link para el comando de python int()]]

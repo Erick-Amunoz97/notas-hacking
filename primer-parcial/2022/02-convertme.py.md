@@ -43,4 +43,11 @@ picoCTF{4ll_y0ur_b4535_722f6b39}
 
 | comando | descripcion
 
+| python | corre un script del lenguaje python. |
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+
 ## Referencias
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]
+[[https://realpython.com/run-python-scripts/#:~:text=To%20run%20Python%20scripts%20with,see%20the%20phrase%20Hello%20World!|Link del comando Python]]
+[[https://www.rapidtables.com/convert/number/decimal-to-binary.html|Convertidor de decimal a binario]]
+

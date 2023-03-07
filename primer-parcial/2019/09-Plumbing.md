@@ -25,4 +25,9 @@ picoCTF{digital_plumb3r_5ea1fbd7}
 
 | comando | descripcion
 
+| nc | El comando Netcat (nc) es una utilidad de línea de comandos para leer y escribir datos entre dos redes informáticas. |
+| grep | El filtro grep busca en un archivo un patrón particular de caracteres y muestra todas las líneas que contienen ese patrón. | 
+
 ## Referencias
+[[https://www.geeksforgeeks.org/grep-command-in-unixlinux/|Link para el comando grep]]
+[[https://phoenixnap.com/kb/nc-command#:~:text=The%20Netcat%20(%20nc%20)%20command%20is,%2C%20ncat%20%2C%20and%20others).|Link para el comando nc]]

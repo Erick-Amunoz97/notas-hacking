@@ -25,4 +25,7 @@ picoCTF{101010}
 
 | comando | descripcion
 
+| bin() | La función Python bin()es una función integrada en Python que toma el número entero x y devuelve la representación binaria de x en formato de cadena. |
+
 ## Referencias
+[[https://www.educative.io/answers/what-is-the-python-bin-function|Link para el comando de Python bin()]]

@@ -41,3 +41,9 @@ picoCTF{learning_about_converting_values_b375bb16}
 | comando | descripcion
 
 ## Referencias
+[[https://phoenixnap.com/kb/nc-command#:~:text=The%20Netcat%20(%20nc%20)%20command%20is,%2C%20ncat%20%2C%20and%20others).|Link para el comando nc]]
+[[https://www.rapidtables.com/convert/number/binary-to-ascii.html|Link para convertidor de binario a texto]]
+[[http://www.unit-conversion.info/texttools/octal/|Link para convertidor de octal a texto]]
+[[http://www.unit-conversion.info/texttools/hexadecimal/|Link para convertidor de hexadecimal a texto]]
+
+

@@ -31,5 +31,11 @@ picoCTF{gl17ch_m3_n07_9c42a45d}
 ## Notas adicionales
 
 | comando | descripcion
+| nc | El comando Netcat (nc) es una utilidad de línea de comandos para leer y escribir datos entre dos redes informáticas. |
+| chr() | La función Python chr() toma un argumento entero y devuelve la cadena que representa un carácter en ese punto de código. |
+
 
 ## Referencias
+[[https://www.digitalocean.com/community/tutorials/python-ord-chr|Link para el comando de python chr()]]
+[[https://phoenixnap.com/kb/nc-command#:~:text=The%20Netcat%20(%20nc%20)%20command%20is,%2C%20ncat%20%2C%20and%20others).|Link para el comando nc]]
+

@@ -1,0 +1,19 @@
+| int() | La función python int() es un método incorporado que convierte una cadena o un número en un número entero. |
+| chr() | La función Python chr() toma un argumento entero y devuelve la cadena que representa un carácter en ese punto de código. |
+| bin() | La función Python bin()es una función integrada en Python que toma el número entero x y devuelve la representación binaria de x en formato de cadena. |
+| nc | El comando Netcat (nc) es una utilidad de línea de comandos para leer y escribir datos entre dos redes informáticas. |
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+| strings | El comando de strings de Linux se utiliza para devolver los caracteres de cadena a los archivos. |
+|base 64 --decode | Esta opción se utiliza para decodificar cualquier dato codificado de la entrada estándar o de cualquier archivo. |
+| echo | Echo es una herramienta de comando de Unix/Linux que se utiliza para mostrar líneas de texto o cadenas que se pasan como argumentos en la línea de comando. |
+| grep | El filtro grep busca en un archivo un patrón particular de caracteres y muestra todas las líneas que contienen ese patrón. | 
+| cat | El comando cat (concatenar) se usa con mucha frecuencia en Linux. Lee datos del archivo y da su contenido como salida. |
+| chmod | El comando chmod de Linux se usa para cambiar los permisos de acceso de archivos y directorios. |
+| unzip | Usando el comando de descompresión simple, puede extraer todos los archivos del archivo zip al directorio de archivos zip actual |
+| cd | El comando cd de Linux se usa para cambiar el directorio de trabajo actual. |
+| ls | El comando ls se utiliza para mostrar una lista de archivos y subdirectorios en el directorio actual. |
+| file | El comando de file se utiliza para determinar el tipo de archivo. |
+| ssh | El comando ssh proporciona una conexión cifrada segura entre dos hosts a través de una red insegura.|
+| python | corre un script del lenguaje python. |
+| nano | abre una nueva ventana del editor y puede comenzar a editar el archivo. |
+| bvi | bvi es un editor orientado a visualización para archivos binarios (editor hexadecimal), basado en el editor de texto vi. |

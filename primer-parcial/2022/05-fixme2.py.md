@@ -44,5 +44,11 @@ picoCTF{3qu4l1ty_n0t_4551gnm3nt_4863e11b}
 ## Notas adicionales
 
 | comando | descripcion
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+| python | corre un script del lenguaje python. |
+| nano | abre una nueva ventana del editor y puede comenzar a editar el archivo. |
 
 ## Referencias
+[[https://realpython.com/run-python-scripts/#:~:text=To%20run%20Python%20scripts%20with,see%20the%20phrase%20Hello%20World!|Link del comando Python]]
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]
+[[https://linuxize.com/post/how-to-use-nano-text-editor/|Link para el comando nano]]

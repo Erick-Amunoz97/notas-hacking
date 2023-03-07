@@ -67,4 +67,14 @@ picoCTF{xxsh_0ut_0f_\/\/4t3r_c1754242}
 
 | comando | descripcion
 
+| cd | El comando cd de Linux se usa para cambiar el directorio de trabajo actual. |
+| ls | El comando ls se utiliza para mostrar una lista de archivos y subdirectorios en el directorio actual. |
+| cat | El comando cat (concatenar) se usa con mucha frecuencia en Linux. Lee datos del archivo y da su contenido como salida. |
+| ssh | El comando ssh proporciona una conexión cifrada segura entre dos hosts a través de una red insegura.|
+
+
 ## Referencias
+[[https://www.ssh.com/academy/ssh/command#:~:text=A%20little%20history-,SSH%20Command%20in%20Linux,SSH%20from%20a%20remote%20location.|Link del comando ssh]]
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Link para el comando cat]]
+[[https://www.atatus.com/blog/ls-command-in-linux-with-example/#:~:text=In%20Linux%2C%20the%20command%20%22ls,as%20well%20as%20system%20administrators.|Link para el comando ls]]
+[[https://www.javatpoint.com/linux-cd#:~:text=Linux%20cd%20command%20is%20used,commands%20in%20the%20Linux%20terminal.|Link para el comando cd]]

@@ -32,4 +32,9 @@ picoCTF{g00d_k1tty!_n1c3_k1tty!_9b3b7392}
 
 | comando | descripcion
 
+| nc | El comando Netcat (nc) es una utilidad de línea de comandos para leer y escribir datos entre dos redes informáticas. |
+
+
 ## Referencias
+
+[[https://phoenixnap.com/kb/nc-command#:~:text=The%20Netcat%20(%20nc%20)%20command%20is,%2C%20ncat%20%2C%20and%20others).|Link para el comando nc]]

@@ -14,10 +14,6 @@ This file has a flag in plain sight (aka "in-the-clear"). [Download flag](https
 ## Solucion
 
 ```bash()
-foxmcloud97-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 4427 | grep "pico"
-picoCTF{digital_plumb3r_5ea1fbd7}
-wget https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag
-^C
 foxmcloud97-picoctf@webshell:~$ wget https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag
 --2023-03-05 06:40:33--  https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag
 Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
@@ -43,4 +39,9 @@ picoCTF{s4n1ty_v3r1f13d_2aa22101}
 
 | comando | descripcion
 
+| cat | El comando cat (concatenar) se usa con mucha frecuencia en Linux. Lee datos del archivo y da su contenido como salida. |
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+
 ## Referencias
+[[https://www.geeksforgeeks.org/cat-command-in-linux-with-examples/|Link para el comando cat]]
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]

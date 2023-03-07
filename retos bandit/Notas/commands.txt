@@ -21,4 +21,25 @@ comando | descripcion |
 |uniq -u | Imprime solo las lineas unicas|
 | strings | se utiliza para devolver los caracteres de tipo string a los archivos. Se enfoca principalmente en determinar el contenido y extraer texto de los archivos binarios(archivo que no es de texto) |
 | Base64 | es para convertir un texto a una codificacion de base 64 |
+| Base64 -d | Decodifica de base64 a texto. |
 | echo | es para mostrar una linea de texto/cadena que se pasa como argumento. Este comando es incorporado principalmente en scripts de shelly archivos de tipo bash para generar texto en la pantalla o en un archivo |
+| echo -n | Muestra la salida del texto omitiendo la nueva linea despues de ella |
+| tr | commando de tipo UNIX usado para traducir o borrrar caracteres |
+| zcat | para ahorrar tiempo y visualizar archivos sin descomprimirlos se utiliza el comando “zcat”. |
+| bzcat | El comando bzcat mostrará los archivos comprimidos con el comando bzip. |
+| tar | significa archivo de tipo "tape", se utiliza para crear "Archives" y extraer los archivos de los "Archives" | 
+| nc | Netcat es una de las poderosas herramientas de red, herramienta de seguridad o herramienta de monitoreo de red. Actúa como un comando de tipo "cat" en una red. Incluso se considera como una navaja suiza de herramientas de red. 
+| openssl | una biblioteca de software o conjunto de herramientas de criptografía que hace que la comunicación a través de redes informáticas sea más segura. |
+| s_client | implementa un cliente SSL/TLS genérico que se conecta a un host remoto mediante SSL/TLS. Es una herramienta de diagnóstico muy útil para servidores SSL. |
+|mkdir | permite al usuario crear directorios (también denominados carpetas en algunos sistemas operativos). |
+| cd | se usa para cambiar el directorio de trabajo actual (es decir, en el que está trabajando el usuario actual). El "cd" significa "cambiar de directorio". |
+| chmod | El comando chmod de Linux se usa para cambiar los permisos de acceso de archivos y directorios. Significa "Change mode" o modo de cambio. No puede cambiar el permiso de enlaces simbólicos. Incluso, ignora los enlaces simbólicos que se encuentran en el recorrido recursivo del directorio. |
+| touch | El comando touch actualiza los tiempos de acceso y modificación de cada archivo especificado por el parámetro Archivo de cada directorio especificado por el parámetro Directorio. |
+| mktemp | se proporciona para permitir que los scripts de shell utilicen archivos temporales de forma segura. | 
+| git clone | copia un repositorio existente a tu repisotirio local. |
+| git add | se usa para agregar archivos al repo |
+| git commit -m | hace un commit de los archivos que hayamos agregado anteriormente |
+| git push | "empuja" los cambios del codigo dentro del repo local hacia el repo no local |
+| git log | es una herramienta de utilidad para revisar y leer un historial de todo lo que sucede en un repositorio. Se pueden usar múltiples opciones con un registro de git para hacer que el historial sea más específico. |
+| git diff | es un comando Git multiuso que, cuando se ejecuta, ejecuta una función diff en fuentes de datos Git.|
+| git branch | es una versión nueva/separada del repositorio principal. |

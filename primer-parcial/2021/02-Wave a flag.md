@@ -43,4 +43,10 @@ picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
 
 | comando | descripcion
 
+| chmod | El comando chmod de Linux se usa para cambiar los permisos de acceso de archivos y directorios. |
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+
 ## Referencias
+
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]
+[[https://www.javatpoint.com/linux-chmod-command#:~:text=Linux%20chmod%20command%20is%20used,come%20across%20recursive%20directory%20traversal.|Link para el comando chmod]]

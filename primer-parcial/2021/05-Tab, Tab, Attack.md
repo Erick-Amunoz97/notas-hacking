@@ -55,4 +55,18 @@ picoCTF{l3v3l_up!_t4k3_4_r35t!_76266e38}
 
 | comando | descripcion
 
+| unzip | Usando el comando de descompresión simple, puede extraer todos los archivos del archivo zip al directorio de archivos zip actual |
+| wget | El comando wget significa web get. El wget es un comando de descarga de archivos no interactivo gratuito. |
+| cd | El comando cd de Linux se usa para cambiar el directorio de trabajo actual. |
+| ls | El comando ls se utiliza para mostrar una lista de archivos y subdirectorios en el directorio actual. |
+| file | El comando de file se utiliza para determinar el tipo de archivo. |
+
+
+
 ## Referencias
+[[https://www.javatpoint.com/linux-wget#:~:text=Command%20wget%20stands%20for%20web,while%20wget%20finish%20its%20work.|Link para el comando wget]]
+[[https://www.geeksforgeeks.org/file-command-in-linux-with-examples/|Link para el comando file]]
+[[https://www.atatus.com/blog/ls-command-in-linux-with-example/#:~:text=In%20Linux%2C%20the%20command%20%22ls,as%20well%20as%20system%20administrators.|Link para el comando ls]]
+[[https://linuxhint.com/unzip_command_-linux/|Link para el comando unzip]]
+[[https://www.javatpoint.com/linux-cd#:~:text=Linux%20cd%20command%20is%20used,commands%20in%20the%20Linux%20terminal.|Link para el comando cd]]
+

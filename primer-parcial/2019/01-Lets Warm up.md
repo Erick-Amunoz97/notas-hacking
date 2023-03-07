@@ -26,6 +26,13 @@ picoCTF{p}
 
 ## Notas adicionales
 
-| comando | descripcion
+| comando | descripcion | 
+
+| int() | La función python int() es un método incorporado que convierte una cadena o un número en un número entero. |
+| chr() | La función Python chr() toma un argumento entero y devuelve la cadena que representa un carácter en ese punto de código. |
+
+
 
 ## Referencias
+[[https://www.digitalocean.com/community/tutorials/python-ord-chr|Link para el comando de python chr()]]
+[[https://www.scaler.com/topics/int-python/|Link para el comando de python int()]]
