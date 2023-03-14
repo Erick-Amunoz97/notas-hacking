@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTf/06-Client-side-again.md",
+                "file": "PicoCTf/RetosWeb/06-Client-side-again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03d36a36089cefeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e21dc8dbd957b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/08-Irish-Name-Repo 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbca31103d9b16b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/09-Irish-Name-Repo 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4054993fa351a07f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/06-Client-side-again.md",
+                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/06-Client-side-again.md",
+                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/06-Client-side-again.md"
+                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md"
               }
             }
           }
@@ -146,14 +195,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b0bae0970a72031",
+  "active": "4054993fa351a07f",
   "lastOpenFiles": [
-    "PicoCTf/03-Logon.md",
-    "PicoCTf/04-dont-use-client-side.md",
-    "PicoCTf/06-Client-side-again.md",
-    "PicoCTf/05-picobrowser.md",
-    "PicoCTf/02-Where are the robots.md",
-    "PicoCTf/01-Insp3ctor.md",
+    "PicoCTf/RetosWeb/08-Irish-Name-Repo 2.md",
+    "PicoCTf/RetosWeb/09-Irish-Name-Repo 3.md",
+    "PicoCTf/RetosWeb/10-JaWT Scratchpad.md",
+    "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
+    "PicoCTf/RetosWeb/06-Client-side-again.md",
+    "PicoCTf/RetosWeb/03-Logon.md",
+    "PicoCTf/RetosWeb/04-dont-use-client-side.md",
+    "PicoCTf/RetosWeb/05-picobrowser.md",
+    "PicoCTf/RetosWeb/02-Where are the robots.md",
+    "PicoCTf/RetosWeb/01-Insp3ctor.md",
     "primer-parcial/2022/07-PW Crack 1.md",
     "primer-parcial/2022/06-Glitch Cat.md",
     "primer-parcial/2022/05-fixme2.py.md",
@@ -165,16 +218,12 @@
     "primer-parcial/2021/05-Tab, Tab, Attack.md",
     "primer-parcial/plantilla 1.md",
     "primer-parcial/2021/03-Nice netcat....md",
-    "PicoCTf/plantilla.md",
+    "PicoCTf/RetosWeb/plantilla.md",
     "PicoCTf/RetosWeb",
     "primer-parcial/2019/05-Strings it.md",
     "primer-parcial/2022/09-PW Crack 3.md",
     "primer-parcial/2022/08-PW Crack 2.md",
     "primer-parcial/2021/04-Static aint always noise.md",
-    "primer-parcial/2021/02-Wave a flag.md",
-    "primer-parcial/2021/01-Obedient Cat.md",
-    "primer-parcial/2019/09-Plumbing.md",
-    "primer-parcial/2019/08-Based.md",
     "primer-parcial/Notas/Commands.txt",
     "primer-parcial/Notas/Links.txt",
     "primer-parcial/Notas",
