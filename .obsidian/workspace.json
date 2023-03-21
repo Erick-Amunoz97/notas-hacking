@@ -66,9 +66,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53ce34ec8a212be3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/PicoCTF 2023/01-Money-ware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55b5972221d37a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/PicoCTF 2023/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118241b009013e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e05e1c44db5c48f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba174337aaa2d124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/11-GET aHEAD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5a7f2c78c202d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/12-Cookies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499f85b971c46322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -134,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
+                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
+                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md"
+                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md"
               }
             }
           }
@@ -195,12 +279,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4054993fa351a07f",
+  "active": "499f85b971c46322",
   "lastOpenFiles": [
+    "PicoCTf/RetosWeb/12-Cookies.md",
+    "PicoCTf/RetosWeb/11-GET aHEAD.md",
+    "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
+    "PicoCTf/RetosWeb/plantilla.md",
+    "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
+    "Pasted image 20230314132622.png",
+    "PicoCTf/PicoCTF 2023/plantilla.md",
+    "PicoCTf/PicoCTF 2023/02-repetitions.md",
+    "PicoCTf/PicoCTF 2023/01-Money-ware.md",
+    "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
+    "PicoCTf/PicoCTF 2023",
     "PicoCTf/RetosWeb/08-Irish-Name-Repo 2.md",
     "PicoCTf/RetosWeb/09-Irish-Name-Repo 3.md",
     "PicoCTf/RetosWeb/10-JaWT Scratchpad.md",
-    "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
     "PicoCTf/RetosWeb/06-Client-side-again.md",
     "PicoCTf/RetosWeb/03-Logon.md",
     "PicoCTf/RetosWeb/04-dont-use-client-side.md",
@@ -215,15 +309,7 @@
     "primer-parcial/2022/02-convertme.py.md",
     "primer-parcial/2022/01-runme.py.md",
     "primer-parcial/2021/06-Magikarp Ground Mission.md",
-    "primer-parcial/2021/05-Tab, Tab, Attack.md",
-    "primer-parcial/plantilla 1.md",
-    "primer-parcial/2021/03-Nice netcat....md",
-    "PicoCTf/RetosWeb/plantilla.md",
     "PicoCTf/RetosWeb",
-    "primer-parcial/2019/05-Strings it.md",
-    "primer-parcial/2022/09-PW Crack 3.md",
-    "primer-parcial/2022/08-PW Crack 2.md",
-    "primer-parcial/2021/04-Static aint always noise.md",
     "primer-parcial/Notas/Commands.txt",
     "primer-parcial/Notas/Links.txt",
     "primer-parcial/Notas",
@@ -231,7 +317,6 @@
     "retos bandit/Notas/Links.txt",
     "retos bandit/Notas/commands.txt",
     "retos bandit/Notas",
-    "retos bandit/New folder",
-    "primer-parcial/2022"
+    "retos bandit/New folder"
   ]
 }
