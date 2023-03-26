@@ -145,14 +145,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
+                "file": "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e4f52623e8b70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/PicoCTF 2023/plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e8298e3e09efc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/PicoCTF 2023/05-Special.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5b5deef8326bca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/14-Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddf26dcc6dc4844c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/15-So Meta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f90061c6783c99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/16-Shark on Wire 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0f6cd8bbe4b144f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/17-Extensions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ea623913a9244e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosWeb/18-What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -218,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
+                "file": "PicoCTf/RetosWeb/18-What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
+                "file": "PicoCTf/RetosWeb/18-What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/RetosWeb/13-Scavenger Hunt.md"
+                "file": "PicoCTf/RetosWeb/18-What Lies Within.md"
               }
             }
           }
@@ -279,44 +363,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "499f85b971c46322",
+  "active": "8ea623913a9244e1",
   "lastOpenFiles": [
+    "PicoCTf/forensic/WhatLiesWithin/buildings.png",
+    "PicoCTf/forensic/WhatLiesWithin",
+    "PicoCTf/RetosWeb/17-Extensions.md",
+    "PicoCTf/forensic/Extensions/flag.png",
+    "PicoCTf/forensic/Extensions/flag.txt",
+    "PicoCTf/forensic/Extensions",
+    "PicoCTf/RetosWeb/16-Shark on Wire 1.md",
+    "PicoCTf/forensic/SharkOnWire/capture.pcap",
+    "PicoCTf/forensic/SharkOnWire",
+    "PicoCTf/forensic/New folder",
+    "PicoCTf/RetosWeb/15-So Meta.md",
+    "PicoCTf/forensic/So_Meta/pico_img.png",
+    "PicoCTf/forensic/So_Meta",
+    "PicoCTf/RetosWeb/14-Glory of the Garden.md",
+    "PicoCTf/forensic/gloryofthegarden/garden.jpg",
+    "PicoCTf/forensic/gloryofthegarden",
+    "PicoCTf/forensic",
+    "PicoCTf/New folder",
+    "PicoCTf/RetosWeb/18-What Lies Within.md",
+    "PicoCTf/PicoCTF 2023/05-Special.md",
+    "PicoCTf/PicoCTF 2023/plantilla.md",
+    "PicoCTf/PicoCTF 2023/04-Permissions.md",
+    "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
+    "retos bandit/Level 9 al 10.md",
+    "retos bandit/Level 10 al 11.md",
+    "retos bandit/Level 11 al 12.md",
+    "retos bandit/Level 12 al 13.md",
+    "retos bandit/Level 13 al 14.md",
+    "retos bandit/Level 15 al 16.md",
+    "retos bandit/Level 4 al 5.md",
+    "retos bandit/Level 2 al 3.md",
+    "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
     "PicoCTf/RetosWeb/12-Cookies.md",
     "PicoCTf/RetosWeb/11-GET aHEAD.md",
-    "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
     "PicoCTf/RetosWeb/plantilla.md",
-    "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
     "Pasted image 20230314132622.png",
-    "PicoCTf/PicoCTF 2023/plantilla.md",
     "PicoCTf/PicoCTF 2023/02-repetitions.md",
     "PicoCTf/PicoCTF 2023/01-Money-ware.md",
     "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
-    "PicoCTf/PicoCTF 2023",
-    "PicoCTf/RetosWeb/08-Irish-Name-Repo 2.md",
-    "PicoCTf/RetosWeb/09-Irish-Name-Repo 3.md",
-    "PicoCTf/RetosWeb/10-JaWT Scratchpad.md",
-    "PicoCTf/RetosWeb/06-Client-side-again.md",
-    "PicoCTf/RetosWeb/03-Logon.md",
-    "PicoCTf/RetosWeb/04-dont-use-client-side.md",
-    "PicoCTf/RetosWeb/05-picobrowser.md",
-    "PicoCTf/RetosWeb/02-Where are the robots.md",
-    "PicoCTf/RetosWeb/01-Insp3ctor.md",
-    "primer-parcial/2022/07-PW Crack 1.md",
-    "primer-parcial/2022/06-Glitch Cat.md",
-    "primer-parcial/2022/05-fixme2.py.md",
-    "primer-parcial/2022/04-fixme1.py.md",
-    "primer-parcial/2022/03-Codebook.md",
-    "primer-parcial/2022/02-convertme.py.md",
-    "primer-parcial/2022/01-runme.py.md",
-    "primer-parcial/2021/06-Magikarp Ground Mission.md",
-    "PicoCTf/RetosWeb",
-    "primer-parcial/Notas/Commands.txt",
-    "primer-parcial/Notas/Links.txt",
-    "primer-parcial/Notas",
-    "primer-parcial/New folder",
-    "retos bandit/Notas/Links.txt",
-    "retos bandit/Notas/commands.txt",
-    "retos bandit/Notas",
-    "retos bandit/New folder"
+    "PicoCTf/RetosWeb/08-Irish-Name-Repo 2.md"
   ]
 }
