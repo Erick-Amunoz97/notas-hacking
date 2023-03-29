@@ -164,18 +164,6 @@
             }
           },
           {
-            "id": "55e8298e3e09efc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/PicoCTF 2023/05-Special.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f5b5deef8326bca5",
             "type": "leaf",
             "state": {
@@ -222,21 +210,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ea623913a9244e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/18-What Lies Within.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -286,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d980fe247f2e092e",
@@ -302,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/RetosWeb/18-What Lies Within.md",
+                "file": "PicoCTf/RetosWeb/17-Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/RetosWeb/18-What Lies Within.md",
+                "file": "PicoCTf/RetosWeb/17-Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/RetosWeb/18-What Lies Within.md"
+                "file": "PicoCTf/RetosWeb/17-Extensions.md"
               }
             }
           }
@@ -363,8 +340,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ea623913a9244e1",
+  "active": "d0f6cd8bbe4b144f",
   "lastOpenFiles": [
+    "PicoCTf/PicoCTF 2023/00-who is it.md",
+    "PicoCTf/forensic/WhoIsIt/email-export.eml",
+    "PicoCTf/forensic/WhoIsIt",
+    "PicoCTf/PicoCTF 2023/00-HideToSee.md",
+    "PicoCTf/PicoCTF 2023/06-who is it.md",
+    "PicoCTf/PicoCTF 2023/plantilla 1.md",
+    "PicoCTf/forensic/HideToSee/datos.txt",
+    "PicoCTf/forensic/HideToSee/atbash.jpg",
+    "PicoCTf/forensic/HideToSee",
+    "PicoCTf/PicoCTF 2023/05-HideToSee.md",
+    "PicoCTf/PicoCTF 2023/04-Permissions.md",
+    "PicoCTf/PicoCTF 2023/02-repetitions.md",
+    "PicoCTf/PicoCTF 2023/Special.md",
+    "PicoCTf/PicoCTF 2023/02-who is it.md",
+    "PicoCTf/PicoCTF 2023/03-HideToSee.md",
+    "PicoCTf/RetosWeb/18-What Lies Within.md",
     "PicoCTf/forensic/WhatLiesWithin/buildings.png",
     "PicoCTf/forensic/WhatLiesWithin",
     "PicoCTf/RetosWeb/17-Extensions.md",
@@ -377,16 +370,9 @@
     "PicoCTf/forensic/New folder",
     "PicoCTf/RetosWeb/15-So Meta.md",
     "PicoCTf/forensic/So_Meta/pico_img.png",
-    "PicoCTf/forensic/So_Meta",
     "PicoCTf/RetosWeb/14-Glory of the Garden.md",
     "PicoCTf/forensic/gloryofthegarden/garden.jpg",
-    "PicoCTf/forensic/gloryofthegarden",
-    "PicoCTf/forensic",
-    "PicoCTf/New folder",
-    "PicoCTf/RetosWeb/18-What Lies Within.md",
-    "PicoCTf/PicoCTF 2023/05-Special.md",
     "PicoCTf/PicoCTF 2023/plantilla.md",
-    "PicoCTf/PicoCTF 2023/04-Permissions.md",
     "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
     "retos bandit/Level 9 al 10.md",
     "retos bandit/Level 10 al 11.md",
@@ -396,14 +382,6 @@
     "retos bandit/Level 15 al 16.md",
     "retos bandit/Level 4 al 5.md",
     "retos bandit/Level 2 al 3.md",
-    "PicoCTf/RetosWeb/13-Scavenger Hunt.md",
-    "PicoCTf/RetosWeb/12-Cookies.md",
-    "PicoCTf/RetosWeb/11-GET aHEAD.md",
-    "PicoCTf/RetosWeb/plantilla.md",
-    "Pasted image 20230314132622.png",
-    "PicoCTf/PicoCTF 2023/02-repetitions.md",
-    "PicoCTf/PicoCTF 2023/01-Money-ware.md",
-    "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
-    "PicoCTf/RetosWeb/08-Irish-Name-Repo 2.md"
+    "Pasted image 20230314132622.png"
   ]
 }

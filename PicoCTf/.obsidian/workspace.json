@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "d49c78b68351d877",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6e0489c0723446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26f37410ba3298fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF 2023/06-who is it.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50255dbafeb12e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54ef512c9bdd996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08297818fadec125",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f0c9edef5c8a097",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3699b0a3216b2f11",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ccdbb8eaccb3a18",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69f1c3bcbd33171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b87d526c476e6835",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PicoCTF 2023/06-who is it.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b45201b103dccb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PicoCTF 2023/06-who is it.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbb11a4426655421",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3e190546d5272c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PicoCTF 2023/06-who is it.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26f37410ba3298fd",
+  "lastOpenFiles": [
+    "PicoCTF 2023.zip",
+    "forensic/WhoIsIt/email-export.eml",
+    "forensic/WhoIsIt",
+    "PicoCTF 2023/00-who is it.md",
+    "PicoCTF 2023/06-who is it.md",
+    "PicoCTF 2023/05-HideToSee.md",
+    "forensic/HideToSee/datos.txt",
+    "forensic/HideToSee/atbash.jpg",
+    "forensic/HideToSee",
+    "PicoCTF 2023/plantilla.md",
+    "PicoCTF 2023/Special.md",
+    "PicoCTF 2023/00-HideToSee.md"
+  ]
+}
