@@ -8,211 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b0bae0970a72031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/06-Client-side-again.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03d36a36089cefeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e21dc8dbd957b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/08-Irish-Name-Repo 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dbca31103d9b16b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTf/RetosWeb/09-Irish-Name-Repo 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4054993fa351a07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/07-Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53ce34ec8a212be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/PicoCTF 2023/01-Money-ware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f55b5972221d37a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/PicoCTF 2023/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "118241b009013e93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e05e1c44db5c48f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba174337aaa2d124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/11-GET aHEAD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5a7f2c78c202d2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/12-Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "499f85b971c46322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e4f52623e8b70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/PicoCTF 2023/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b5deef8326bca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/14-Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddf26dcc6dc4844c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/15-So Meta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f90061c6783c99c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/16-Shark on Wire 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f6cd8bbe4b144f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTf/RetosWeb/17-Extensions.md",
+                "file": "PicoCTf/RetosWeb/28-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d980fe247f2e092e",
@@ -279,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/RetosWeb/17-Extensions.md",
+                "file": "PicoCTf/RetosWeb/28-MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/RetosWeb/17-Extensions.md",
+                "file": "PicoCTf/RetosWeb/28-MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/RetosWeb/17-Extensions.md"
+                "file": "PicoCTf/RetosWeb/28-MacroHard WeakEdge.md"
               }
             }
           }
@@ -340,48 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f6cd8bbe4b144f",
+  "active": "dbca31103d9b16b8",
   "lastOpenFiles": [
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/slides/_rels/slide19.xml.rels",
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/slides/_rels/slide18.xml.rels",
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/slides/_rels/slide17.xml.rels",
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/tableStyles.xml",
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/viewProps.xml",
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/presProps.xml",
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/vbaProject.bin",
+    "PicoCTf/forensic/MacroHardWeakEdge/docProps/thumbnail.jpeg",
+    "PicoCTf/forensic/MacroHardWeakEdge/docProps/core.xml",
+    "PicoCTf/forensic/MacroHardWeakEdge/docProps/app.xml",
+    "PicoCTf/forensic/MacroHardWeakEdge/docProps",
+    "PicoCTf/forensic/MacroHardWeakEdge/ppt/theme/theme1.xml",
+    "PicoCTf/RetosWeb/27-tunn3l_v1s10n.md",
+    "PicoCTf/RetosWeb/26-Matryoshka doll.md",
+    "PicoCTf/RetosWeb/25-WebNet1.md",
+    "PicoCTf/forensic/tunn3lV1s10n/tunn3l_v1s10n.bmp",
+    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg",
+    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg",
+    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/2_c.jpg",
+    "PicoCTf/forensic/MatryoshkaDoll/dolls.jpg",
+    "PicoCTf/forensic/WebNet1/vulture.jpg",
+    "PicoCTf/RetosWeb/09-Irish-Name-Repo 3.md",
+    "PicoCTf/RetosWeb/24-WebNet0.md",
+    "PicoCTf/RetosWeb/23-shark on wire 2.md",
+    "PicoCTf/RetosWeb/22-like1000.md",
+    "PicoCTf/forensic/like1000/flag.png",
+    "PicoCTf/RetosWeb/21-c0rrupt.md",
+    "PicoCTf/RetosWeb/20-WhitePages.md",
+    "PicoCTf/RetosWeb/19-m00nwalk.md",
+    "PicoCTf/forensic/m00nwalk/result.png",
+    "PicoCTf/RetosWeb/18-What Lies Within.md",
+    "PicoCTf/RetosWeb/28-MacroHard WeakEdge.md",
+    "PicoCTf/RetosWeb/17-Extensions.md",
     "PicoCTf/PicoCTF 2023/00-who is it.md",
-    "PicoCTf/forensic/WhoIsIt/email-export.eml",
-    "PicoCTf/forensic/WhoIsIt",
     "PicoCTf/PicoCTF 2023/00-HideToSee.md",
     "PicoCTf/PicoCTF 2023/06-who is it.md",
     "PicoCTf/PicoCTF 2023/plantilla 1.md",
-    "PicoCTf/forensic/HideToSee/datos.txt",
     "PicoCTf/forensic/HideToSee/atbash.jpg",
-    "PicoCTf/forensic/HideToSee",
     "PicoCTf/PicoCTF 2023/05-HideToSee.md",
     "PicoCTf/PicoCTF 2023/04-Permissions.md",
     "PicoCTf/PicoCTF 2023/02-repetitions.md",
     "PicoCTf/PicoCTF 2023/Special.md",
     "PicoCTf/PicoCTF 2023/02-who is it.md",
     "PicoCTf/PicoCTF 2023/03-HideToSee.md",
-    "PicoCTf/RetosWeb/18-What Lies Within.md",
-    "PicoCTf/forensic/WhatLiesWithin/buildings.png",
-    "PicoCTf/forensic/WhatLiesWithin",
-    "PicoCTf/RetosWeb/17-Extensions.md",
-    "PicoCTf/forensic/Extensions/flag.png",
-    "PicoCTf/forensic/Extensions/flag.txt",
-    "PicoCTf/forensic/Extensions",
     "PicoCTf/RetosWeb/16-Shark on Wire 1.md",
-    "PicoCTf/forensic/SharkOnWire/capture.pcap",
-    "PicoCTf/forensic/SharkOnWire",
-    "PicoCTf/forensic/New folder",
-    "PicoCTf/RetosWeb/15-So Meta.md",
-    "PicoCTf/forensic/So_Meta/pico_img.png",
-    "PicoCTf/RetosWeb/14-Glory of the Garden.md",
-    "PicoCTf/forensic/gloryofthegarden/garden.jpg",
-    "PicoCTf/PicoCTF 2023/plantilla.md",
-    "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
-    "retos bandit/Level 9 al 10.md",
-    "retos bandit/Level 10 al 11.md",
-    "retos bandit/Level 11 al 12.md",
-    "retos bandit/Level 12 al 13.md",
-    "retos bandit/Level 13 al 14.md",
-    "retos bandit/Level 15 al 16.md",
-    "retos bandit/Level 4 al 5.md",
-    "retos bandit/Level 2 al 3.md",
-    "Pasted image 20230314132622.png"
+    "PicoCTf/RetosWeb/15-So Meta.md"
   ]
 }
