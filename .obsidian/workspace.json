@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e85fd4b928052ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/Segundo Examen Parcial/2021 Forensic/01-information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8899bfab7ecf5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/Segundo Examen Parcial/2021 Forensic/01-information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab3011ec5721aadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/Segundo Examen Parcial/2022 Web/09-SQL Direct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dba865036d4ce86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/RetosCrypto/07-waves over lambda.md",
+                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/RetosCrypto/07-waves over lambda.md",
+                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/RetosCrypto/07-waves over lambda.md"
+                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md"
               }
             }
           }
@@ -146,52 +195,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "784a3ed3d5c1f3d6",
+  "active": "dba865036d4ce86e",
   "lastOpenFiles": [
-    "PicoCTf/RetosCrypto/06-Tapping.md",
-    "PicoCTf/RetosCrypto/05-la cifra de.md",
-    "PicoCTf/RetosCrypto/04-Caesar.md",
-    "PicoCTf/RetosCrypto/02-Easy 1.md",
-    "PicoCTf/RetosCrypto/03-13.md",
+    "PicoCTf/RetosCrypto/09-miniRSA.md",
+    "PicoCTf/RetosCrypto/08-rsa pop quiz.md",
+    "PicoCTf/forensic/miniRSA/ciphertext",
+    "PicoCTf/forensic/miniRSA",
+    "PicoCTf/PicoCTF 2023/04-Permissions.md",
+    "PicoCTf/PicoCTF 2023/05-HideToSee.md",
+    "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
+    "PicoCTf/PicoCTF 2023/02-repetitions.md",
+    "PicoCTf/PicoCTF 2023/01-Money-ware.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/06-who is it.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/05-HideToSee.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/04-Permissions.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/01-Money-ware.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/02-repetitions.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/Reverse/Reverse.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/ReadMyCert/ReadMyCert.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/chrono.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/PcapPoisoning.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/rotation.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/useless.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/MatchTheRegex.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/findme.md",
+    "PicoCTf/PicoCTF 2023/06-who is it.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/Safe_Opener_2/Safe_Opener_2.md",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/Safe_Opener_2/img2.png",
+    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/Safe_Opener_2/img1.png",
+    "PicoCTf/RetosCrypto/07-waves over lambda.md",
+    "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
+    "PicoCTf/Segundo Examen Parcial/2022 Web/10-SQL Lite.md",
+    "PicoCTf/Segundo Examen Parcial/2021 Forensic",
+    "PicoCTf/Segundo Examen Parcial/2022 Web",
+    "PicoCTf/Segundo Examen Parcial",
     "Pasted image 20230422130723.png",
     "Pasted image 20230422130510.png",
-    "PicoCTf/RetosCrypto/01-The numbers.md",
-    "PicoCTf/RetosCrypto/07-waves over lambda.md",
     "PicoCTf/forensic/13",
     "PicoCTf/forensic/Easy1/table.txt",
     "PicoCTf/forensic/Easy1",
     "Pasted image 20230420132322.png",
     "PicoCTf/forensic/TheNumbers/the_numbers.png",
     "PicoCTf/forensic/TheNumbers",
-    "PicoCTf/RetosCrypto/plantilla.md",
-    "PicoCTf/RetosWeb/plantilla.md",
-    "PicoCTf/RetosWeb/28-MacroHard WeakEdge.md",
     "PicoCTf/RetosCrypto",
-    "PicoCTf/forensic/MacroHardWeakEdge/ppt/slides/_rels/slide19.xml.rels",
-    "PicoCTf/forensic/MacroHardWeakEdge/ppt/slides/_rels/slide18.xml.rels",
-    "PicoCTf/forensic/MacroHardWeakEdge/ppt/slides/_rels/slide17.xml.rels",
-    "PicoCTf/forensic/MacroHardWeakEdge/ppt/tableStyles.xml",
-    "PicoCTf/forensic/MacroHardWeakEdge/ppt/viewProps.xml",
     "PicoCTf/forensic/MacroHardWeakEdge/docProps/thumbnail.jpeg",
-    "PicoCTf/RetosWeb/27-tunn3l_v1s10n.md",
-    "PicoCTf/RetosWeb/26-Matryoshka doll.md",
-    "PicoCTf/RetosWeb/25-WebNet1.md",
     "PicoCTf/forensic/tunn3lV1s10n/tunn3l_v1s10n.bmp",
     "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg",
-    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg",
-    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/2_c.jpg",
-    "PicoCTf/forensic/MatryoshkaDoll/dolls.jpg",
-    "PicoCTf/RetosWeb/09-Irish-Name-Repo 3.md",
-    "PicoCTf/RetosWeb/24-WebNet0.md",
-    "PicoCTf/RetosWeb/23-shark on wire 2.md",
-    "PicoCTf/RetosWeb/22-like1000.md",
-    "PicoCTf/RetosWeb/21-c0rrupt.md",
-    "PicoCTf/RetosWeb/20-WhitePages.md",
-    "PicoCTf/RetosWeb/19-m00nwalk.md",
-    "PicoCTf/RetosWeb/18-What Lies Within.md",
-    "PicoCTf/RetosWeb/17-Extensions.md",
-    "PicoCTf/PicoCTF 2023/00-who is it.md",
-    "PicoCTf/PicoCTF 2023/00-HideToSee.md",
-    "PicoCTf/PicoCTF 2023/06-who is it.md"
+    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg"
   ]
 }
