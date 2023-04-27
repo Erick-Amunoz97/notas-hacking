@@ -16,6 +16,7 @@ picoCTF{}
 
 ## Notas adicionales
 
-| comando | descripcion
+| comando | descripcion |
+| --- | --- |
 
 ## Referencias

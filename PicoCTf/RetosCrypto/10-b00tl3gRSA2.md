@@ -38,6 +38,27 @@ picoCTF{bad_1d3a5_2152720}
 
 ## Notas adicionales
 
-| comando | descripcion
+c - texto cifrado
+m - mensaje texto plano 
+p - primo 1
+q - primo 2
+n - modulo
+tn - totient n (euler)
+e - exponente (llave publica) 2^16+1=65537
+d - llave privada 
+
+n = p * q
+tn = (p-1) * (q-1)
+d = e mod inv tn / inverse(e,tn)
+
+Encriptar: c = m^e mod n     / pow(m,e,n)
+
+Desencriptar: m = c^d mod n   / pow(c,d,n)
+ 
+c = m^e mod n
+
+c = m ^ 3
+
+m = 3 raiz c
 
 ## Referencias

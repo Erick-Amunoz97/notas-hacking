@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
+                "file": "PicoCTf/RetosCrypto/15-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
+                "file": "PicoCTf/RetosCrypto/15-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
+                "file": "PicoCTf/RetosCrypto/15-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md"
+                "file": "PicoCTf/RetosCrypto/15-ReadMyCert.md"
               }
             }
           }
@@ -197,12 +197,34 @@
   },
   "active": "dba865036d4ce86e",
   "lastOpenFiles": [
+    "Pasted image 20230427162225.png",
+    "PicoCTf/forensic/ReadMyCert/readmycert.csr",
+    "PicoCTf/forensic/ReadMyCert",
+    "PicoCTf/RetosCrypto/14-HideToSee.md",
+    "PicoCTf/PicoCTF 2023/05-HideToSee.md",
+    "PicoCTf/RetosCrypto/13-basic-mod1.md",
+    "PicoCTf/forensic/BasicMod1/exp.py",
+    "PicoCTf/forensic/BasicMod1/message.txt",
+    "PicoCTf/forensic/BasicMod1",
+    "PicoCTf/RetosCrypto/12-Pixelated.md",
+    "PicoCTf/RetosCrypto/11-Mind your Ps and Qs.md",
+    "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
+    "Pasted image 20230427153010.png",
+    "PicoCTf/forensic/Pixelated/scrambled2.png",
+    "PicoCTf/forensic/Pixelated/scrambled1.png",
+    "PicoCTf/forensic/scrambled2.png",
+    "PicoCTf/forensic/scrambled1.png",
+    "PicoCTf/forensic/Pixelated",
+    "Pasted image 20230427145743.png",
+    "PicoCTf/forensic/MindYourPsAndQs/values",
+    "PicoCTf/forensic/MindYourPsAndQs",
+    "PicoCTf/RetosCrypto/15-ReadMyCert.md",
+    "PicoCTf/RetosCrypto/plantilla.md",
     "PicoCTf/RetosCrypto/09-miniRSA.md",
     "PicoCTf/RetosCrypto/08-rsa pop quiz.md",
     "PicoCTf/forensic/miniRSA/ciphertext",
     "PicoCTf/forensic/miniRSA",
     "PicoCTf/PicoCTF 2023/04-Permissions.md",
-    "PicoCTf/PicoCTF 2023/05-HideToSee.md",
     "PicoCTf/PicoCTF 2023/03-Rules 2023.md",
     "PicoCTf/PicoCTF 2023/02-repetitions.md",
     "PicoCTf/PicoCTF 2023/01-Money-ware.md",
@@ -217,30 +239,9 @@
     "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/PcapPoisoning.md",
     "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/rotation.md",
     "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/useless.md",
-    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/MatchTheRegex.md",
-    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/findme.md",
-    "PicoCTf/PicoCTF 2023/06-who is it.md",
-    "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/Safe_Opener_2/Safe_Opener_2.md",
     "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/Safe_Opener_2/img2.png",
     "PicoCTf/PicoCTF_2023_Documento_Equipo/tarea4-picoCTF-2023-main/Safe_Opener_2/img1.png",
-    "PicoCTf/RetosCrypto/07-waves over lambda.md",
-    "PicoCTf/RetosCrypto/10-b00tl3gRSA2.md",
-    "PicoCTf/Segundo Examen Parcial/2022 Web/10-SQL Lite.md",
-    "PicoCTf/Segundo Examen Parcial/2021 Forensic",
-    "PicoCTf/Segundo Examen Parcial/2022 Web",
-    "PicoCTf/Segundo Examen Parcial",
     "Pasted image 20230422130723.png",
-    "Pasted image 20230422130510.png",
-    "PicoCTf/forensic/13",
-    "PicoCTf/forensic/Easy1/table.txt",
-    "PicoCTf/forensic/Easy1",
-    "Pasted image 20230420132322.png",
-    "PicoCTf/forensic/TheNumbers/the_numbers.png",
-    "PicoCTf/forensic/TheNumbers",
-    "PicoCTf/RetosCrypto",
-    "PicoCTf/forensic/MacroHardWeakEdge/docProps/thumbnail.jpeg",
-    "PicoCTf/forensic/tunn3lV1s10n/tunn3l_v1s10n.bmp",
-    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg",
-    "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg"
+    "Pasted image 20230422130510.png"
   ]
 }
