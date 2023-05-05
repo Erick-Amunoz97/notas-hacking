@@ -6,7 +6,8 @@
 ## Pistas
 
 ## Solucion
-
+![[Pasted image 20230505023129.png]]
+no me deja entrar al reto porque esta bajo "mantenimiento"
 ```bash()
 ```
 
