@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/04-vault-door-4.md",
+                "file": "PicoCTf/Retos-Reversing/07-asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/04-vault-door-4.md",
+                "file": "PicoCTf/Retos-Reversing/07-asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/04-vault-door-4.md",
+                "file": "PicoCTf/Retos-Reversing/07-asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/04-vault-door-4.md"
+                "file": "PicoCTf/Retos-Reversing/07-asm3.md"
               }
             }
           }
@@ -169,11 +169,22 @@
   },
   "active": "43df2f7dc39b23ce",
   "lastOpenFiles": [
+    "PicoCTf/reversing/Asm3/test.S",
+    "PicoCTf/reversing/Asm3",
+    "PicoCTf/Retos-Reversing/06-asm2.md",
+    "PicoCTf/reversing/Asm2/test.S",
+    "PicoCTf/reversing/test.S",
+    "PicoCTf/reversing/Asm2",
+    "PicoCTf/reversing/asm1/test.S.save",
+    "PicoCTf/Retos-Reversing/05-asm1.md",
+    "PicoCTf/Retos-Reversing/07-asm3.md",
+    "PicoCTf/reversing/asm1/test.S",
+    "PicoCTf/reversing/asm1",
+    "PicoCTf/Retos-Reversing/04-vault-door-4.md",
     "PicoCTf/reversing/VaultDoor4/VaultDoor4.java",
     "PicoCTf/reversing/VaultDoor4",
     "PicoCTf/Retos-Reversing/03-vault-door-3.md",
     "PicoCTf/Retos-Reversing/02-vault-door-1.md",
-    "PicoCTf/Retos-Reversing/04-vault-door-4.md",
     "PicoCTf/Segundo Examen Parcial/2022 Web/10-SQL Lite.md",
     "PicoCTf/Segundo Examen Parcial/2022 Web/08-Secrets.md",
     "PicoCTf/Segundo Examen Parcial/2022 Web/09-SQL Direct.md",
@@ -193,15 +204,7 @@
     "PicoCTf/Segundo Examen Parcial/2021 Forensic/01-information.md",
     "Untitled",
     "Pasted image 20230505023129.png",
-    "PicoCTf/web/index.html",
     "PicoCTf/Retos-Reversing/01-vault-door-training.md",
-    "PicoCTf/reversing/VaultDoor3/VaultDoor3.java",
-    "PicoCTf/reversing/VaultDoor3",
-    "PicoCTf/reversing/VaultDoor1/flag.txt",
-    "PicoCTf/reversing/VaultDoor1/VaultDoor1.java",
-    "PicoCTf/reversing/VaultDoor1",
-    "PicoCTf/reversing/VaultoDoorTrainning/VaultDoorTraining.java",
-    "PicoCTf/reversing/VaultoDoorTrainning",
     "PicoCTf/Retos-Reversing/plantilla.md",
     "Pasted image 20230427191327.png",
     "Pasted image 20230427191037.png",
@@ -210,9 +213,6 @@
     "Pasted image 20230427184949.png",
     "Pasted image 20230427184919.png",
     "Pasted image 20230427183746.png",
-    "PicoCTf/primer-parcial/2021/06-Magikarp Ground Mission.md",
-    "PicoCTf/primer-parcial/2021/05-Tab, Tab, Attack.md",
-    "PicoCTf/primer-parcial/2021/04-Static aint always noise.md",
     "PicoCTf/forensic/Enhance!/drawing.flag.svg",
     "PicoCTf/forensic/MatryoshkaDoll/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg"
   ]
