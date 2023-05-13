@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/07-asm3.md",
+                "file": "PicoCTf/Retos-Reversing/11-Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/07-asm3.md",
+                "file": "PicoCTf/Retos-Reversing/11-Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/07-asm3.md",
+                "file": "PicoCTf/Retos-Reversing/11-Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/Retos-Reversing/07-asm3.md"
+                "file": "PicoCTf/Retos-Reversing/11-Safe Opener 2.md"
               }
             }
           }
@@ -169,20 +169,25 @@
   },
   "active": "43df2f7dc39b23ce",
   "lastOpenFiles": [
-    "PicoCTf/reversing/Asm3/test.S",
-    "PicoCTf/reversing/Asm3",
-    "PicoCTf/Retos-Reversing/06-asm2.md",
-    "PicoCTf/reversing/Asm2/test.S",
-    "PicoCTf/reversing/test.S",
-    "PicoCTf/reversing/Asm2",
-    "PicoCTf/reversing/asm1/test.S.save",
-    "PicoCTf/Retos-Reversing/05-asm1.md",
+    "PicoCTf/reversing/SafeOpener2/SafeOpener.class",
+    "PicoCTf/reversing/SafeOpener2",
+    "PicoCTf/reversing/SafeOpener.class",
+    "PicoCTf/Retos-Reversing/10-reverse_cipher.md",
+    "PicoCTf/Retos-Reversing/09-GDB Test Drive.md",
+    "PicoCTf/Retos-Reversing/08-Need For Speed.md",
+    "PicoCTf/reversing/GDBTestDrive/gdbme-2",
+    "PicoCTf/reversing/GDBTestDrive/gdbme",
+    "PicoCTf/reversing/GDBTestDrive",
+    "PicoCTf/Retos-Reversing/11-Safe Opener 2.md",
+    "PicoCTf/reversing/Reverse_Cipher/exp.py",
+    "PicoCTf/reversing/Reverse_Cipher/rev_this",
+    "PicoCTf/reversing/Reverse_Cipher/rev",
+    "PicoCTf/reversing/Reverse_Cipher",
+    "PicoCTf/reversing/NeedForSpeed/need-for-speed",
     "PicoCTf/Retos-Reversing/07-asm3.md",
-    "PicoCTf/reversing/asm1/test.S",
-    "PicoCTf/reversing/asm1",
+    "PicoCTf/Retos-Reversing/06-asm2.md",
+    "PicoCTf/Retos-Reversing/05-asm1.md",
     "PicoCTf/Retos-Reversing/04-vault-door-4.md",
-    "PicoCTf/reversing/VaultDoor4/VaultDoor4.java",
-    "PicoCTf/reversing/VaultDoor4",
     "PicoCTf/Retos-Reversing/03-vault-door-3.md",
     "PicoCTf/Retos-Reversing/02-vault-door-1.md",
     "PicoCTf/Segundo Examen Parcial/2022 Web/10-SQL Lite.md",
@@ -200,12 +205,7 @@
     "PicoCTf/Segundo Examen Parcial/2021 Forensic/05-Packets Primer.md",
     "PicoCTf/Segundo Examen Parcial/2021 Forensic/04-Lookey here.md",
     "PicoCTf/Segundo Examen Parcial/2021 Forensic/03-Enhance!.md",
-    "PicoCTf/Segundo Examen Parcial/2021 Forensic/02-Wireshark doo dooo do doo...md",
-    "PicoCTf/Segundo Examen Parcial/2021 Forensic/01-information.md",
-    "Untitled",
     "Pasted image 20230505023129.png",
-    "PicoCTf/Retos-Reversing/01-vault-door-training.md",
-    "PicoCTf/Retos-Reversing/plantilla.md",
     "Pasted image 20230427191327.png",
     "Pasted image 20230427191037.png",
     "Pasted image 20230427190919.png",
