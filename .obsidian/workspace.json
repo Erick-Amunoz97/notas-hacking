@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTf/RetosBinary/05-Stonks.md",
+                "file": "PicoCTf/Tercer Examen Parcial/Reversing/07-GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTf/RetosBinary/05-Stonks.md",
+                "file": "PicoCTf/Tercer Examen Parcial/Reversing/07-GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTf/RetosBinary/05-Stonks.md",
+                "file": "PicoCTf/Tercer Examen Parcial/Reversing/07-GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTf/RetosBinary/05-Stonks.md"
+                "file": "PicoCTf/Tercer Examen Parcial/Reversing/07-GDB baby step 2.md"
               }
             }
           }
@@ -156,51 +156,51 @@
   },
   "active": "dba865036d4ce86e",
   "lastOpenFiles": [
-    "PicoCTf/binary/Stonks/unhex.py",
-    "PicoCTf/RetosBinary/03-buffer overflow 1.md",
-    "PicoCTf/binary/Stonks/input",
-    "PicoCTf/RetosBinary/02-buffer overflow 0.md",
-    "PicoCTf/RetosBinary/05-Stonks.md",
-    "PicoCTf/binary/Stonks/vuln.c",
-    "PicoCTf/binary/vuln.c",
-    "PicoCTf/binary/Stonks",
-    "PicoCTf/RetosBinary/04-flag leak.md",
-    "PicoCTf/binary/FlagLeak/flag.txt",
-    "PicoCTf/Retos-Reversing/08-Need For Speed.md",
-    "PicoCTf/RetosBinary/01-basic-file-exploit.md",
-    "PicoCTf/Retos-Reversing/10-reverse_cipher.md",
-    "PicoCTf/Retos-Reversing/11-Safe Opener 2.md",
-    "PicoCTf/Retos-Reversing/09-GDB Test Drive.md",
-    "PicoCTf/binary/FlagLeak/vuln.c",
-    "PicoCTf/binary/FlagLeak/vuln",
-    "PicoCTf/binary/FlagLeak",
-    "PicoCTf/RetosBinary/plantilla.md",
-    "PicoCTf/binary/BufferOverflow1/exp.py",
-    "Pasted image 20230420132322.png",
-    "PicoCTf/binary/BufferOverflow1/flag.txt",
-    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/04-two-sum.md",
-    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/03-clutter-overflow.md",
-    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/02-Local Target.md",
-    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/01-Picker IV.md",
-    "PicoCTf/Tercer Examen Parcial/Reversing/07-GDB baby step 2.md",
     "PicoCTf/Tercer Examen Parcial/Reversing/06-GDB baby step 1.md",
     "PicoCTf/Tercer Examen Parcial/Reversing/05-Bit-O-Asm-4.md",
     "PicoCTf/Tercer Examen Parcial/Reversing/04-Bit-O-Asm-3.md",
     "PicoCTf/Tercer Examen Parcial/Reversing/03-Bit-O-Asm-2.md",
     "PicoCTf/Tercer Examen Parcial/Reversing/02-Bit-O-Asm-1.md",
     "PicoCTf/Tercer Examen Parcial/Reversing/01-ASCII FTW.md",
-    "PicoCTf/Tercer Examen Parcial/Reversing/plantilla - Copy (7).md",
-    "PicoCTf/Tercer Examen Parcial/Crypto/plantilla - Copy (5).md",
     "PicoCTf/Tercer Examen Parcial/Crypto/05-SRA.md",
     "PicoCTf/Tercer Examen Parcial/Crypto/04-Vigenere.md",
+    "PicoCTf/Tercer Examen Parcial/Crypto/03-transposition-trial.md",
+    "PicoCTf/Tercer Examen Parcial/Crypto/02-Mr-Worldwide.md",
+    "PicoCTf/Tercer Examen Parcial/Crypto/01-Flags.md",
+    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/04-two-sum.md",
+    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/03-clutter-overflow.md",
+    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/02-Local Target.md",
+    "PicoCTf/Tercer Examen Parcial/Binary Exploitation/01-Picker IV.md",
+    "PicoCTf/Tercer Examen Parcial/Reversing/07-GDB baby step 2.md",
+    "PicoCTf/Retos-Reversing/07-asm3.md",
+    "PicoCTf/Retos-Reversing/08-Need For Speed.md",
+    "PicoCTf/Retos-Reversing/06-asm2.md",
+    "PicoCTf/Retos-Reversing/05-asm1.md",
+    "PicoCTf/Retos-Reversing/03-vault-door-3.md",
+    "PicoCTf/Retos-Reversing/01-vault-door-training.md",
+    "PicoCTf/RetosCrypto/09-miniRSA.md",
+    "PicoCTf/reversing/GDBBabyStep2/debugger0_b",
+    "PicoCTf/reversing/GDBBabyStep2",
+    "PicoCTf/reversing/GDBBabyStep1/debugger0_a",
+    "PicoCTf/reversing/GDBBabyStep1",
+    "PicoCTf/Retos-Reversing/02-vault-door-1.md",
+    "PicoCTf/reversing/BitOAsm4/disassembler-dump0_d.txt",
+    "PicoCTf/reversing/BitOAsm4",
+    "PicoCTf/reversing/BitOAsm3/disassembler-dump0_c.txt",
+    "PicoCTf/reversing/BitOAsm3",
+    "PicoCTf/reversing/BitOAsm2/disassembler-dump0_b.txt",
+    "PicoCTf/reversing/BitOAsm2",
+    "PicoCTf/Retos-Reversing/09-GDB Test Drive.md",
+    "PicoCTf/Retos-Reversing/10-reverse_cipher.md",
+    "Pasted image 20230529194735.png",
+    "PicoCTf/crypto/Flags/flag.png",
+    "Pasted image 20230420132322.png",
     "Pasted image 20230505023129.png",
     "Pasted image 20230427191327.png",
     "Pasted image 20230427191037.png",
     "Pasted image 20230427190919.png",
     "PicoCTf/forensic/St3g0/pico.flag.png",
     "Pasted image 20230427184949.png",
-    "Pasted image 20230427184919.png",
-    "Pasted image 20230427183746.png",
-    "PicoCTf/forensic/Enhance!/drawing.flag.svg"
+    "Pasted image 20230427184919.png"
   ]
 }

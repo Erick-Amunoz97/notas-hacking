@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-MX"
+  ]
 }
